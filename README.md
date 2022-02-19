@@ -20,19 +20,19 @@ Seth and Tom had enlisted me to audit data from the upcoming election and evalua
 
 The votes were broken down from these 3 counties:
 
--Jefferson area having 38,855 votes (10.5% of the voting pool).
+* Jefferson area having 38,855 votes (10.5% of the voting pool).
 
--Denver area having 306,055 votes (82.8% of the voting pool).-
+* Denver area having 306,055 votes (82.8% of the voting pool).-
 
--Arapahoe area haveing 24,801 votes (6.7% of the voting pool).-
+* Arapahoe area haveing 24,801 votes (6.7% of the voting pool).-
 
 ### *Votes and Percentages by Candidate*
 
--Charles Casper Stockham had recieved 85,213(23.0% of the voting pool).
+* Charles Casper Stockham had recieved 85,213(23.0% of the voting pool).
 
--Diana DeGette had recieved 272,892 votes (73.8% of the voting pool).
+* Diana DeGette had recieved 272,892 votes (73.8% of the voting pool).
 
--Raymon Anthony Doane had recieved 11,606 votes (3.1% of the voting pool).
+* Raymon Anthony Doane had recieved 11,606 votes (3.1% of the voting pool).
 
 This gives Diana DeGette with 272,892 (73.8% of the voting pool) votes a landslide of a victory in the election.
 
