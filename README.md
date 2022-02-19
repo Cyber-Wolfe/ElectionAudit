@@ -17,6 +17,7 @@ With the election data compiled and broken down we had gathered
 369,711 votes were cast in this election.
 
 The votes were broken down from these 3 counties:
+
 -Jefferson area having 38,855 votes (10.5% of the voting pool). 
 -Denver area having 306,055 votes (82.8% of the voting pool).
 -Arapahoe area haveing 24,801 votes (6.7% of the voting pool).
