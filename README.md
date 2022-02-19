@@ -1,6 +1,6 @@
-#Election Audit
+# Election Audit
 
-##Project Overview
+## Project Overview
 Seth and Tom had enlisted me to audit data from the upcoming election and evaluate the findings. The results that were wanted were: 
 1. Voter turnout from each county,
 2. Percentage of votes each county contributed to the total voting poo
