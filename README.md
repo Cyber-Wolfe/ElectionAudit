@@ -14,7 +14,7 @@ Seth and Tom had enlisted me to audit data from the upcoming election and evalua
 
 ## Election Results
 
-### Area Votes Breakdown
+### *Area Votes Breakdown*
 
 369,711 votes were cast in this election.
 
