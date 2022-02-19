@@ -7,10 +7,10 @@ Seth and Tom had enlisted me to audit data from the upcoming election and evalua
 3. County with the highest voter turnout.
 
 ### Rescources
-- *Data: election_results.csv
-- *Software: Python 3.9.1
+- *Data*: election_results.csv
+- *Software*: Python 3.9.1
 	    Visual Studio Code 1.63.2
-- *Analysis: election_analysis.txt
+- *Analysis*: election_analysis.txt
 
 ## Election Results
 
