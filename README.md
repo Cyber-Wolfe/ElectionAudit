@@ -32,7 +32,7 @@ This gives Diana DeGette with 272,892 (73.8% of the voting pool) votes a landsli
 The election commision can easily reformat this script to be used with any future election they see fit. What has to be done is is just to alter all the blue text in this order:
 
 1. Add new variables to the variables section.
-![Variables_pull.PNG]
+![Variables_pull.PNG](https://github.com/Cyber-Wolfe/ElectionAudit/blob/main/Script_Screenshots/Variables_pull.PNG)
 2. Add a list line in the for-loop.
 3. A new if-statement.
 4. A new for statement.
