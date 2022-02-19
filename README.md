@@ -43,7 +43,7 @@ The election commision can easily reformat this script to be used with any futur
 
 ![for_block](https://github.com/Cyber-Wolfe/ElectionAudit/blob/main/Script_Screenshots/for_block.PNG)
 
-Then it is ready to run with a print statement, 'txt_file.write(your_variable_here)'.
+Then it is ready to run with a print statement 'txt_file.write(your_variable_here)' =COUNTIF().
 
 A good example would be if the election commission wanted to add demographic or ages into the election data to see a breakdown of who and how old the voters are. Add in a new set of variables into the variable list, a new list in the for-loop, and the a new if and for statement and then we can print.  That knowledge could help candidates with campaigning for diversely in the future.
 A second example could be just to increase the overall amount of candidates. The code does not even need to be altered for an increase in candidates and areas.  The code is already to have more people in it, all it needs is to read out the CSV file with more poeple and the data is ready.
