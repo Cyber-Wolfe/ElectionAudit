@@ -13,7 +13,9 @@ Seth and Tom had enlisted me to audit data from the upcoming election and evalua
 - Analysis: election_analysis.txt
 
 ## Election Results
-With the election data compiled and broken down we had gathered 
+
+### Area Votes Breakdown
+
 369,711 votes were cast in this election.
 
 The votes were broken down from these 3 counties:
@@ -24,10 +26,12 @@ The votes were broken down from these 3 counties:
 
 -Arapahoe area haveing 24,801 votes (6.7% of the voting pool).-
 
-*Votes and Percentages by Candidate*
+### *Votes and Percentages by Candidate*
 
 -Charles Casper Stockham had recieved 85,213(23.0% of the voting pool).
+
 -Diana DeGette had recieved 272,892 votes (73.8% of the voting pool).
+
 -Raymon Anthony Doane had recieved 11,606 votes (3.1% of the voting pool).
 
 This gives Diana DeGette with 272,892 (73.8% of the voting pool) votes a landslide of a victory in the election.
